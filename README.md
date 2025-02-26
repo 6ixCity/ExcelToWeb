@@ -7,7 +7,7 @@ localhost website and view your excel charts in the web.
 ### How to run?
 ```
 git clone https://github.com/fogleman/Minecraft.git
-pip install requirements.py
+pip install requirements.txt
 python main.py
 ```
 
