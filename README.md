@@ -6,7 +6,7 @@ localhost website and view your excel charts in the web.
 
 ### How to run?
 ```
-git clone https://github.com/fogleman/Minecraft.git
+git clone https://https://github.com/6ixCity/ExcelToWeb
 pip install requirements.txt
 python main.py
 ```
